@@ -1,0 +1,32 @@
+.header {
+    padding: 15px;
+    text-align: center;
+    background: #f1c40f;
+    font-weight: bold;
+}
+
+.table {
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+}
+.table thead tr {
+    height: 40px;
+    background: #fff6d2;
+}
+.table tbody tr td {
+    text-align: center;
+}
+.btn {
+    margin-top: 20px;
+    margin-left: 20px;
+    background: #f1c410;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btn:hover {
+    background: #ffea94;
+    cursor: pointer;
+}
